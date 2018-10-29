@@ -1,3 +1,23 @@
+# minidebug
+
+Simple yet Mini World Debugger
+
+## Overview
+
+**Note:**
+This Debugger is only for people that develops Plugin Packs or Lua Scripts, is not for normal people or for normal usage.
+
+The Debugger console can show you what is happening at your game and at their servers, it's useful when you're developing a Lua Script for a Mini Game.
+
+## Installation
+
+- [Release History](https://github.com/thatRARE/minidebug/releases)
+  - [Installer (Full)](https://github.com/thatRARE/minidebug/archive/minidebug-installer-1.0.0.exe)
+  - [Portable](https://github.com/thatRARE/minidebug/archive/minidebug-1.0.0.zip)
+
+## License
+
+```license
 MIT License
 
 Copyright (c) 2018 thatRARE
@@ -19,3 +39,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
