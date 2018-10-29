@@ -12,8 +12,8 @@ The Debugger console can show you what is happening at your game and at their se
 ## Installation
 
 - [Release History](https://github.com/thatRARE/minidebug/releases)
-  - [Installer (Full)](https://github.com/thatRARE/minidebug/archive/minidebug-installer-1.0.0.exe)
-  - [Portable](https://github.com/thatRARE/minidebug/archive/minidebug-1.0.0.zip)
+  - [Installer (Full)](https://github.com/thatRARE/minidebug/releases/download/1.0.0/minidebug-installer-1.0.0.exe)
+  - [Portable](https://github.com/thatRARE/minidebug/releases/download/1.0.0/minidebug-1.0.0.zip)
 
 ## License
 
